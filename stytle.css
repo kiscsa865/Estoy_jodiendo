@@ -1,8 +1,53 @@
-body{
-    background-image: url(../kavezo_regi/img/cappuccino_k.png);
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    
-    
+
+
+h1{
+    background-color: rgba(248, 248, 248,0.75);
+    margin-top: 80px;
+    padding-left: 11rem; 
+    font-family: Verdana;   
+    color: #416618;
+    font-weight: bold;
 }
+
+h2{    
+    margin-top: 10px;    
+    color:  #416618;
+    border-left: 3px dotted  #416618;
+    font-variant: small-caps;
+    padding: 5px 15px;
+}
+
+h3{    
+    font-weight: bold;
+    color: #416618;    
+    text-align: center;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+
+li{
+    list-style-image: url();
+    float: left;
+    margin-left: 40px;
+}
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;  
+    text-transform: uppercase;  
+}
+
+.navbar{
+    background-color: #00fd22;
+}
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
+body{background-color: burlywood; }
