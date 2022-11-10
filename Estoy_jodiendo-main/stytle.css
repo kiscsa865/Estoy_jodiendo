@@ -50,4 +50,9 @@ p{
     text-align: justify;
     text-indent: 15px;
 }
-body{background-color: burlywood; }
+body{background-color: burlywood;
+    background-image:  url(img/kavezo2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1000px;}
